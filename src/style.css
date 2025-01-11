@@ -1,0 +1,10 @@
+html {
+    background-color: rgb(207, 206, 204);
+}
+body {
+    font-family: 'comic sans ms', 'Arial', sans-serif;
+}
+a {
+    color: black;
+    font-weight: bold;
+}
