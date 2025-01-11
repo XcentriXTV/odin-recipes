@@ -16,7 +16,7 @@ a {
 
 header {
     color: black;
-    background-color: rgb(216, 216, 216);
+    background-color: rgb(241, 241, 241);
     text-align: center;
     padding: 10px;
     min-height: 70px;
@@ -24,6 +24,14 @@ header {
     border: 1px solid rgb(116, 110, 110);
 
     
+}
+
+.box {
+    color: black;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid rgb(116, 110, 110);
+    padding: 5px 10px;
+    margin: 0px;
 }
 nav {
     display: flex;
